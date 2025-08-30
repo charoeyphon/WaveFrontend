@@ -28,8 +28,4 @@ yarn-error.log*
 
 .yarn
 
-.png
-.jpg
-.jpeg
-.gif
-.bmp
+/public/assets/images
